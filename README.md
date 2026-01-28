@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Gainti
-- 👀 I’m interested in cfd and artificial intelligence
-- 🌱 I’m currently learning cfd
+
+Name: Gainti
+studying: rarefied gas dynamcis
+school: South Unversity of Science and Technology (Sustech)
+
 
 <!---
 Gainti/Gainti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
