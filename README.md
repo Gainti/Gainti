@@ -1,7 +1,7 @@
 
-Name: Gainti
-studying: rarefied gas dynamcis
-school: South Unversity of Science and Technology (Sustech)
+Name: Gainti \\
+studying: rarefied gas dynamcis \\
+school: South Unversity of Science and Technology (Sustech) \\
 
 
 <!---
