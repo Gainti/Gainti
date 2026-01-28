@@ -1,7 +1,11 @@
 
-Name: Gainti \\
-studying: rarefied gas dynamcis \\
-school: South Unversity of Science and Technology (Sustech) \\
+## Hi, I'm Gainti 👋
+
+🎓 MSc student at **Southern University of Science and Technology (SUSTech)**  
+🔬 Research interest: **Rarefied Gas Dynamics** (kinetic theory, micro/nano flows, numerical simulation)
+
+📫 Contact: lps_sustech@qq.com
+
 
 
 <!---
