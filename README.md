@@ -4,7 +4,7 @@
 🎓 MSc student at **Southern University of Science and Technology (SUSTech)**  
 🔬 Research interest: **Rarefied Gas Dynamics** (kinetic theory, micro/nano flows, numerical simulation)
 
-📫 Contact: lps_sustech@qq.com
+📫 Contact: 12432326@mail.sustech.edu.cn
 
 
 
